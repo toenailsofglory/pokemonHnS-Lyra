@@ -61,7 +61,7 @@ const u8 gText_BirchBoy[] = _("BOY");
 const u8 gText_BirchGirl[] = _("GIRL");
 
 const u8 gText_DefaultNameGold[] = _("GOLD");
-const u8 gText_DefaultNameKris[] = _("KRIS");
+const u8 gText_DefaultNameKris[] = _("Lyra");
 
 const u8 gText_DefaultNameStu[] = _("STU");
 const u8 gText_DefaultNameMilton[] = _("MILTON");
